@@ -4,7 +4,7 @@ This program is designed for **automated trading on Bybit** using signals from p
 
 ## 🔧 Setup  
 
-Before running the program, you need to **enter your API keys** provided by Bybit. These keys allow the bot to place trades on your behalf.  
+Before running the program, you need to enter your API keys provided by Bybit in the `listik.py` file. These keys allow the bot to place trades on your behalf.    
 
 ## 📑 Signal Analysis  
 
